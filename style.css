@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: blue ;
+    text-align: center;
+    color: brown;
+    height: 100px;
+}
+.bannar{
+    background-color: rgb(1, 3, 6);
+    text-align: center;
+    color: blueviolet;
+    height: 400px;
+    font-size: 50px;
+}
+.service{
+    display: flex;
+background-color: darkblue;
+height: 200px;
+text-align: center;
+color:green;
+font-size: 30px;
+
+}
+.left-box{
+    height: 100px;
+    width: 50%;
+    background-color: midnightblue;
+    text-align: center;
+    color: yellow;
+    font-size: 40px;
+
+
+}
+.right-box{
+height: 200px;
+width: 50%;
+background-color: teal;
+text-align: center;
+color: tomato;
+}
+.featuer{
+display: flex;
+}
+.feature-1{
+    width: 33.3%;
+    height: 200px;
+    background-color: rgb(75, 138, 75);
+    text-align: center;
+    color: purple;
+}
+.feature-2{
+    width: 33.3%;
+    height: 200px;
+    background-color: limegreen;
+    text-align: center;
+    color: purple;
+}
+.feature-3{
+    width: 33.3%;
+    height: 200px;
+    background-color: rgb(160, 17, 17);
+    text-align: center;
+    color: purple;
+}
+.ad{
+display: flex;
+}
+.left-ad{
+    height: 200px;
+    width: 30%;
+    background-color: rgb(185, 24, 24);
+    text-align: center;
+    color: black;
+}
+.right-ad{
+    height: 200px;
+    width: 70%;
+    background-color: dimgrey;
+    text-align: center;
+    color: black;
+}
